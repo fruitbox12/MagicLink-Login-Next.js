@@ -26,14 +26,14 @@ const Header = () => {
             <>
               <li>
                 <Link href='/'>
-                  <TextButton color='primary' size='sm'>
+                  <TextButton color='#fe3420' size='sm'>
                     Home
                   </TextButton>
                 </Link>
               </li>
               <li>
                 <Link href='/profile'>
-                  <TextButton color='primary' size='sm'>
+                  <TextButton color='#fe3420' size='sm'>
                     Profile
                   </TextButton>
                 </Link>
@@ -49,7 +49,7 @@ const Header = () => {
           ) : (
             <li>
               <Link href='/login'>
-                <CallToAction color='primary' size='sm'>
+                <CallToAction color='#fe3420' size='sm'>
                   Login
                 </CallToAction>
               </Link>
