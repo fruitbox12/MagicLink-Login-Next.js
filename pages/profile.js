@@ -23,7 +23,7 @@ const Profile = () => {
       <style jsx>{`
         .label {
           font-size: 12px;
-          color: #6851ff;
+          color: #000000;
           margin: 30px 0 5px;
         }
         .profile-info {
