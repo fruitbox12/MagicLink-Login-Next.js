@@ -12,7 +12,7 @@
     "magic-sdk": "^4.0.0",
     "next": "latest",
     "react": "^18.2.0",
-    "react-dom": "^16.13.1"
+    "react-dom": "^18.2.0"
   },
   "license": "MIT",
   "devDependencies": {
