@@ -18,11 +18,15 @@ const Layout = (props) => (
         outline: none;
         background-color: black;
       }
+      body {
+      
+      background-color: black;
+      
+      }
       .container {
         max-width: 42rem;
         margin: 0 auto;
         padding: 0 10px;
-                background-color: black;
 
       }
     `}</style>
