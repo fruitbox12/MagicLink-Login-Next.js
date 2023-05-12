@@ -47,6 +47,7 @@ const EmailForm = ({ onEmailSubmit, disabled }) => {
           margin: 25px 0;
         }
         .input-wrapper {
+          color: white;
           width: 80%;
           margin: 0 auto 20px;
         }
